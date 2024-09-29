@@ -3,10 +3,10 @@
 */
 
 #include "functions.h"
-#include <iostream>
-#include <string>
+#include <iostream>	// Перенести в хэдер
+#include <string>	//
 
-using namespace std;
+using namespace std;	// Не используем
 
 int main(int arg, char *argv[])
 {
