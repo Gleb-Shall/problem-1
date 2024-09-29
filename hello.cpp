@@ -3,10 +3,10 @@
 */
 
 #include "functions.h"
-#include <iostream>
-#include <string>
+#include <iostream>	// Подключение библиотек перенести в хэдер, тогда здесь не придется их еще раз подключать
+#include <string>	// и хватит подключения только хэдера
 
-using namespace std;
+using namespace std;	// Тоже убираем
 
 void SayHello(string WordToSay)
 {
