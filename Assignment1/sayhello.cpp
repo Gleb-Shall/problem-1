@@ -9,5 +9,5 @@
 
 void SayHello(std::string WordToSay)
 {
-	std::cout << "Hello, " << WordToSay << "!" << "\n";
+    std::cout << "Hello, " << WordToSay << "!" << "\n";
 }
