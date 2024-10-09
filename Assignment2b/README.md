@@ -9,7 +9,7 @@ The program reads a line from the terminal and interprets it as a _reverse polis
 
 At each step, the program receives a _value_:
 * if a `number` was entered, it is __stored__ on the top of the stack;
-* if an `operation` sign was entered, then 2 numbers are __popped__ from the top of the stack, after which the entered operation is __applied__ to them (the operation is defined in the function __MathematicalOpeeretion__);
+* if an `operation` sign was entered, then 2 numbers are __popped__ from the top of the stack, after which the entered operation is __applied__ to them (the operation is defined in the function __MathematicalOperation__);
 
 after all operations are performed, our `value` is on the top of the _stack_ (where the _top pointer_ points)
 ## Build
