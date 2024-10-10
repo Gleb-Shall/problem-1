@@ -4,7 +4,7 @@
 ## Contacts
 st128274@student.spbu.ru
 ## Description
-### Home assignment 2 - processes reverse polish notation expression.
+### Home assignment 2b - processes reverse polish notation expression.
 The program reads a line from the terminal and interprets it as a _reverse polish notation expression_. if you __break__ a line into several, the program will still consider it a single line.
 
 At each step, the program receives a _value_:
